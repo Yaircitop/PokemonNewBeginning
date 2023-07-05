@@ -1,6 +1,6 @@
 # PokemonNewBeginning
 Proyecto dedicado a crear una alternativa y un nuevo nacimiento a la franquicia Pokemón.
-Integrantes:
+#Integrantes:
 ·David Retuerto
 ·Ignacio Panes
 ·Sebastian Moya
@@ -8,7 +8,7 @@ Integrantes:
 
 Queremos cumplir el servicio de entretener al público con un juego ya familiar para cada usuario y entendible para usuarios nuevos, también este juego se podrá jugar en dispositivos con diferentes sistemas operativos, resolviendo la dependencia que Pokémon tiene con el dispositivo de Nintendo, siendo esta una característica importante de nuestro juego.
 
-Instalación:
+#Instalación:
 Debe tener en cuenta que, para ejecutar este programa usted debe poseer un IDE(Ej. Visual Studio Code).
 Asegúrese de tener los siquientes archivos;
 -MovementList.h
@@ -18,12 +18,12 @@ Asegúrese de tener los siquientes archivos;
 -pkmnalpha.h
 -pokedex.h
 -temp.cpp
-Sistemas linux;
+#Sistemas linux;
 1.Tener descargada la carpeta del juego.
 2.En la terminal dirigirse a la carpeta donde estan ubicados los archivos del juego.
 3.Escribir en la terminal: g++ -o "EJECUTABLE" pkmnalpha.cpp
 4.Para ejecutar el juego escribir: ./"EJECUTABLE"
-Sistemas windows;
+#Sistemas windows;
 1.Tener descargada la carpeta del juego
 2.Instalar el compilador en https://visualstudio.microsoft.com/es/
 3.Abrir un terminal en la carpeta de archivos del juego
