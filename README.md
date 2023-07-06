@@ -44,7 +44,7 @@ Asegúrese de tener los siquientes archivos;
 
 3.-Abrir un terminal en la carpeta de archivos del juego
 
-4.-Escribir en la terminal: g++ -o "ejecutable "pkmnalpha.cpp
+4.-Escribir en la terminal: g++ pkmnalpha.cpp -o "ejecutable"
 
 5.-Para ejecutar el juego escribir:  ./ejecutable
 
