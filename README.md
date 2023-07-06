@@ -14,6 +14,9 @@ característica importante de nuestro juego.
 .-Instalación:
 Debe tener en cuenta que, para ejecutar este programa usted debe poseer un IDE(Ej. Visual Studio Code).
 Asegúrese de tener los siquientes archivos;
+
+Requiere al menos gcc 4.8.5.
+
 -MovementList.h
 
 -movement.h
